@@ -5,7 +5,7 @@ This repository contains the **frontend** design for the Integrated Safari Proje
 ## Live Demo
 
 You can access the live project here:
-👉 [Integrated Safari Project](https://integrated-safari.fillipsoftware.com/))
+👉 [Integrated Safari Project](https://integrated-safari.fillipsoftware.com/)
 
 ## About
 
