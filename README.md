@@ -1,4 +1,4 @@
-# My Project Name
+Integrated Safari
 
 👉 Click here to see the live UI : (https://integrated-safari.fillipsoftware.com/)
 
